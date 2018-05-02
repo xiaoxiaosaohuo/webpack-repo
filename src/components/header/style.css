@@ -1,0 +1,51 @@
+.header {
+  height: 40px;
+  line-height: 40px;
+}
+
+.header.bordered {
+  border-bottom: 1px solid #ddd;
+}
+
+.headerFlex {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-bottom: 10px;
+}
+
+.misBread {
+  font-size: 14px;
+}
+
+.misBread a {
+  color: rgba(0, 0, 0, 0.65);
+  -webkit-transition: color .3s;
+  transition: color .3s;
+}
+
+.misBread a:hover {
+  color: #49a9ee;
+}
+
+.misBread>span:last-child {
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.65);
+}
+
+/*.misBread > span:last-child a {
+  color: #49a9ee;
+}*/
+
+.misBread>span:last-child .misBreadseparator {
+  display: none;
+}
+
+.misBreadseparator {
+  margin: 0 8px;
+  color: rgba(0, 0, 0, 0.3);
+}
+
+.title{
+  font-size: 20px;
+}

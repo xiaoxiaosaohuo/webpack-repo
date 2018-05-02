@@ -1,0 +1,435 @@
+.tfzLayout {
+    height: 100%
+}
+
+.tfzLayout>div.ant-layout {
+    overflow: auto;
+    background: #fff;
+}
+
+.scrollTarget {
+    /*margin-bottom: 50px;*/
+    /* scroll-behavior: smooth; */
+}
+
+.tfzheader {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0;
+    height: 50px;
+    line-height: 50px;
+    background: rgb(43, 44, 54);
+    box-shadow: inset 0 -1px 0 rgba(14, 18, 25, 0.6), inset 0 -2px 0 rgba(218, 222, 232, 0.1);
+    z-index: 3;
+}
+
+.tfzheader-right {
+    display: flex;
+    align-items: center;
+}
+
+.tfzheader-menu {
+    position: relative;
+    background: rgb(43, 44, 54) !important;
+    z-index: auto;
+    padding: 0 15px;
+}
+
+.tfzheader-menu>li, .tfzheader-menu>li:hover {
+    background: rgb(43, 44, 54) !important;
+    border-bottom: none !important;
+    top: 0 !important;
+}
+
+.tfzheader-menu.ant-menu-horizontal {
+    border: none;
+}
+
+.tfzlogo {
+    display: flex;
+}
+
+.tfzlogo>a {
+    display: inline-block;
+    height: 50px;
+    vertical-align: middle;
+    padding: 4px 10px;
+}
+
+.tfzlogo>a:nth-child(2) {
+    padding: 0px 0px;
+}
+
+.tfzlogout-info {
+    display: flex;
+    align-items: center;
+    height: 44px;
+    padding: 0 20px;
+    cursor: pointer;
+}
+
+.tfzlogout-menu {
+    text-align: center;
+    padding: 5px;
+}
+
+.tfzlogout-menu>.anticon-poweroff {
+    margin-right: 10px;
+}
+
+#tfz-user-name {
+    margin-left: 5px;
+    color: rgba(255, 255, 255, 0.67);
+}
+
+.tfzlogout {
+    margin-right: 10px;
+}
+
+.tfzlogout-avatar {
+    width: 30px;
+    height: 30px;
+    margin-right: 3px;
+    /* background: url("../assets/images/avatar.png") */
+}
+
+/* 顶部左侧菜单 */
+
+.top-menu {
+    margin-left: 10px;
+    z-index: auto;
+    background-color: rgb(43, 44, 54) !important;
+    align-self: center;
+}
+
+.top-submenu:hover {
+    border: none!important;
+}
+
+.top-submenu .iconfont {
+    margin-right: 10px;
+}
+
+.top-submenu .ant-menu-item:hover {
+    background-color: #2db7f5;
+}
+
+.top-submenu-link {
+    display: inline-block;
+    color: rgba(255, 255, 255, 0.67);
+}
+
+.top-submenu-link:hover {
+    color: rgba(255, 255, 255, 0.9)
+}
+
+.top-submenu-link:focus {
+    text-decoration: none;
+}
+
+/*左边栏*/
+
+.tfzLayout>div>.ant-layout-sider, ul.tfz-sider, .tfz-sider .tfz-menu ul {
+    background: rgb(43, 44, 54) !important;
+}
+
+.tfz-sider .ant-menu-submenu-title {
+    height: auto !important;
+    padding: 0 8px !important;
+}
+
+.tfz-sider .ant-menu-submenu-title:hover {
+    background: #2db7f5 !important;
+}
+
+.tfz-sider .ant-menu-submenu-title:hover span {
+    color: #fff !important;
+}
+
+.tfz-sider .ant-menu-item:hover {
+    background: #2db7f5 !important;
+}
+
+.tfz-sider .sider-flex {
+    font-size: 16px;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+
+.tfz-sider .sider-flex span:nth-child(1) {
+    padding: 2px 0;
+    font-size: 20px;
+    color: #9497b1;
+    margin: auto;
+}
+
+.tfz-sider .sider-flex span:nth-child(2) {
+    font-size: 14px;
+    line-height: 1.5;
+    color: #9497b1;
+    padding: 0 4px;
+    margin: auto;
+}
+
+.tfz-menu .nav-text {
+    margin-left: 15px;
+}
+
+.tfz-sider .ant-menu-submenu-arrow {
+    display: none
+}
+
+.tfz-menu ul.ant-menu {
+    min-width: 120px;
+}
+
+@media (min-height: 550px) {
+    .tfz-sider .sider-flex {
+        flex-direction: row;
+    }
+    .tfz-sider .sider-flex span:nth-child(1) {
+        padding: 12px 0;
+    }
+    .tfz-menu ul li.ant-menu-item {
+        line-height: 34px;
+        height: 34px;
+    }
+}
+
+@media (min-height: 620px) {
+    .tfz-sider .sider-flex {
+        flex-direction: row;
+    }
+    .tfz-sider .sider-flex span:nth-child(1) {
+        padding: 14px 0;
+    }
+    .tfz-menu ul li.ant-menu-item {
+        line-height: 36px;
+        height: 36px;
+    }
+}
+
+@media (min-height: 720px) {
+    .tfz-sider .ant-menu-submenu-title {
+        padding: 3px 8px !important;
+    }
+}
+
+@media (min-height: 841px) {
+    .tfz-sider .sider-flex {
+        flex-direction: column;
+    }
+    .tfz-sider .sider-flex span:nth-child(1) {
+        padding: 3px 0;
+        font-size: 24px;
+    }
+    .tfz-sider li.tfz-menu {
+        padding: 5px 0;
+    }
+}
+
+/* 右侧 */
+
+.main-content {
+    background: #fff;
+    padding: 24px;
+    margin: 0;
+    overflow: initial;
+    padding-top: 12px;
+    padding-bottom: 0;
+    position: relative;
+}
+
+.main-content, .main-content>div {
+    height: 100%;
+}
+
+.main-content, .main-content>div {
+    /* padding-bottom: 50px; */
+}
+
+/*404*/
+
+.notfound {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    flex-grow: 1;
+}
+
+.height-100 {
+    height: 100%;
+}
+
+.height-100>div.ant-spin-container {
+    padding-bottom: 50px;
+}
+
+/* 进度条 */
+
+#nprogress {
+    pointer-events: none;
+}
+
+#nprogress .bar {
+    background: #29d;
+    position: fixed;
+    z-index: 1031;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+}
+
+/* Fancy blur effect */
+
+#nprogress .peg {
+    display: block;
+    position: absolute;
+    right: 0px;
+    width: 100px;
+    height: 100%;
+    box-shadow: 0 0 10px #29d, 0 0 5px #29d;
+    opacity: 1.0;
+    -webkit-transform: rotate(3deg) translate(0px, -4px);
+    -ms-transform: rotate(3deg) translate(0px, -4px);
+    transform: rotate(3deg) translate(0px, -4px);
+}
+
+/* Remove these to get rid of the spinner */
+
+#nprogress .spinner {
+    display: block;
+    position: fixed;
+    z-index: 1031;
+    top: 15px;
+    right: 15px;
+}
+
+#nprogress .spinner-icon {
+    width: 18px;
+    height: 18px;
+    box-sizing: border-box;
+    border: solid 2px transparent;
+    border-top-color: #29d;
+    border-left-color: #29d;
+    border-radius: 50%;
+    -webkit-animation: nprogress-spinner 400ms linear infinite;
+    animation: nprogress-spinner 400ms linear infinite;
+}
+
+.nprogress-custom-parent {
+    overflow: hidden;
+    position: relative;
+}
+
+.nprogress-custom-parent #nprogress .spinner, .nprogress-custom-parent #nprogress .bar {
+    position: absolute;
+}
+
+@-webkit-keyframes nprogress-spinner {
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes nprogress-spinner {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/*加载时占位页面*/
+
+.timeline-item {
+    background: #fff;
+    border-bottom: 1px solid #f2f2f2;
+    padding: 25px;
+    margin: 0 auto;
+}
+
+@keyframes placeHolderShimmer {
+    0% {
+        background-position: -468px 0
+    }
+    100% {
+        background-position: 468px 0
+    }
+}
+
+.animated-background {
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-name: placeHolderShimmer;
+    animation-timing-function: linear;
+    background: #f6f7f8;
+    background: linear-gradient(to right, #eeeeee 8%, #dddddd 18%, #eeeeee 33%);
+    background-size: 800px 104px;
+    height: 40px;
+    position: relative;
+}
+
+.background-masker {
+    background: #fff;
+    position: absolute;
+}
+
+.loading {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding: 0;
+}
+
+.loading-content {
+    padding: 24px;
+}
+
+.loading-block {
+    display: inline-block;
+    margin: 5px 1% 0;
+    height: 14px;
+    border-radius: 2px;
+    background: -webkit-linear-gradient(left, rgba(207, 216, 220, 0.2), rgba(207, 216, 220, 0.4), rgba(207, 216, 220, 0.2));
+    background: linear-gradient(90deg, rgba(207, 216, 220, 0.2), rgba(207, 216, 220, 0.4), rgba(207, 216, 220, 0.2));
+    -webkit-animation: loading 1.4s ease infinite;
+    animation: loading 1.4s ease infinite;
+    background-size: 600% 600%;
+}
+
+@-webkit-keyframes loading {
+    0%, 100% {
+        background-position: 0 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+}
+
+@keyframes loading {
+    0%, 100% {
+        background-position: 0 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+}
+
+/*审核提示*/
+
+.resetBadge .ant-badge {
+    position: absolute;
+    right: 0px;
+}

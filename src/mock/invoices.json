@@ -1,0 +1,18 @@
+[{
+
+    "actionTime": "20161210145144",
+    "transInvoiceAmount": "0.0",
+    "transInvoiceType": "1",
+    "interfaceIDs": "1,2,3",
+    "reviewStatu": "2",
+    "createBy": "jiangwei",
+    "createTime": "20161210145144",
+    "rightID": "1",
+    "rightCode": "setting.renyuanshezhi.query",
+    "action": "0",
+    "moduleName": "特别设置a",
+    "rightGroupName": "人员管理",
+    "systemKey": "MIS_PC",
+    "moduleID": "1",
+    "rightDesc": "查询集团信息"
+}]

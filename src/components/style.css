@@ -1,0 +1,139 @@
+.role{
+    font-weight:700;
+}
+.role_Moudle{
+    margin-left:15px;
+}
+.role_Item{
+    margin-left:30px;
+}
+.role_Item .ant-form-explain{
+    margin-left:22px;
+}
+.homeCanvas div{
+    height: 100%;
+}
+:global(.Tablink){
+   margin-bottom: 15px;
+   border-bottom:1px solid #ddd;
+}
+
+
+table.reference, table.tecspec{
+    border-collapse: separate;
+    width: 100%;
+    border-spacing:0;
+    border: 1px solid #ddd;
+    border-bottom: 0;
+    border-right: 0;
+    border-radius:4px 4px 0 0 ;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
+table.reference th{
+    color: rgba(64,64,64,.85);
+    background-color: #f3f3f3;
+    border-right: 1px solid #e2e2e2;
+    font-size: 14px;
+    padding: 6px 0;
+    vertical-align: top;
+    text-align: center;
+    vertical-align: middle;
+}
+table.reference> thead>tr > th {
+    border-bottom: 1px solid #e9e9e9;
+}
+tr td:first-child {
+    min-width: 25px;
+}
+table.reference> tbody > tr > td {
+    min-width: 24px;
+    border-right: 1px solid #d4d4d4;
+    border-bottom: 1px solid #ddd;
+    padding: 10px 5px;
+    vertical-align: middle;
+    text-align: center;
+
+}
+.tableRowSpan p{
+    line-height: 40px;
+    min-width: 24px;
+    border-bottom: 1px solid #d4d4d4;
+    vertical-align: middle;
+    text-align: center;
+}
+.tableRowSpan p:last-child{
+    border-bottom:none
+}
+
+
+/*图片预览css*/
+
+.pictureWrapper{
+	display: inline-block;
+	width: 96px;
+	height: 96px;
+	margin: 0 8px 8px 0;
+	padding: 8px;
+	border-radius: 4px;
+	border: 1px solid #d9d9d9;
+	position: relative;
+}
+.pictureA,.pictureA img{
+	display: block;
+	height: 100%;
+	width: 100%;
+}
+
+.pageHeader{
+	padding-bottom: 5px;
+	padding-top:5px;
+}
+
+.tipsFlex{
+    display: block;
+    /*justify-content: space-between;
+    align-items: center;*/
+}
+.borderTop{
+    margin: 0px -25px;
+    border-top: 1px solid #f5f5f5;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+.tipsColor{
+    color:#f50
+}
+.tipsTitle{
+    /*font-size: 1.17em;*/
+    padding: 7px;
+    font-weight: bold;
+}
+.tipsTitle2{
+    float: right;
+}
+.active{
+    background-color: #f5f5f5
+}
+
+.floatRight{
+    float: right;
+    padding: 5px;
+}
+.alignRight{
+    text-align: right !important;
+    padding: 10px 5px !important;
+}
+.modalTitle{
+    border-left: solid 3px #308EFF;
+    border-bottom: solid 1px #F1F1F1;
+    margin-left: 5px;
+    margin-bottom: 15px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+.modalTitle p{
+    margin-bottom: 10px;
+}

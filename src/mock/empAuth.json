@@ -1,0 +1,601 @@
+{
+    "code": "000",
+    "right": [
+        {
+            "moduleKey": "sale",
+            "moduleName": "销售管理",
+            "rightList": [
+                {
+                    "empID": 1255,
+                    "moduleID": 3,
+                    "moduleKey": "sale",
+                    "moduleName": "销售管理",
+                    "rightCode": "sale.dingdanguanli.query",
+                    "rightID": 69,
+                    "rightName": "查询订单任务",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 3,
+                    "moduleKey": "sale",
+                    "moduleName": "销售管理",
+                    "rightCode": "sale.dingdanguanli.update",
+                    "rightID": 81,
+                    "rightName": "更新订单任务",
+                    "rightType": 0
+                }
+            ],
+            "sign": "4addabc1-c088-4806-9909-5f06c9d2f881"
+        },
+        {
+            "moduleKey": "partner_management",
+            "moduleName": "商户管理",
+            "rightList": [
+                {
+                    "empID": 1255,
+                    "moduleID": 2,
+                    "moduleKey": "partner_management",
+                    "moduleName": "商户管理",
+                    "rightCode": "partner_management.shanghuguanli.insertOrUpdate",
+                    "rightID": 63,
+                    "rightName": "标记商户",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 2,
+                    "moduleKey": "partner_management",
+                    "moduleName": "商户管理",
+                    "rightCode": "partner_management.shanghubiaoji.queryDianpuAndOwner",
+                    "rightID": 66,
+                    "rightName": "查询店铺及其标记信息",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 2,
+                    "moduleKey": "partner_management",
+                    "moduleName": "商户管理",
+                    "rightCode": "partner_management.yemianquanxian.shopOwnerShip.page",
+                    "rightID": 101,
+                    "rightName": "商户标记",
+                    "rightType": 1
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 2,
+                    "moduleKey": "partner_management",
+                    "moduleName": "商户管理",
+                    "rightCode": "partner_management.yemianquanxian.shopCheck.page",
+                    "rightID": 129,
+                    "rightName": "商户审核",
+                    "rightType": 1
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 2,
+                    "moduleKey": "partner_management",
+                    "moduleName": "商户管理",
+                    "rightCode": "partner_management.yemianquanxian.myShop.page",
+                    "rightID": 131,
+                    "rightName": "我的任务",
+                    "rightType": 1
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 2,
+                    "moduleKey": "partner_management",
+                    "moduleName": "商户管理",
+                    "rightCode": "partner_management.woderenwu.myTaskList.query",
+                    "rightID": 175,
+                    "rightName": "我的任务",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 2,
+                    "moduleKey": "partner_management",
+                    "moduleName": "商户管理",
+                    "rightCode": "partner_management.woderenwu.openAccountDetial.query",
+                    "rightID": 177,
+                    "rightName": "开户详情",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 2,
+                    "moduleKey": "partner_management",
+                    "moduleName": "商户管理",
+                    "rightCode": "partner_management.woderenwu.openAccountClaim",
+                    "rightID": 179,
+                    "rightName": "开户审核认领",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 2,
+                    "moduleKey": "partner_management",
+                    "moduleName": "商户管理",
+                    "rightCode": "partner_management.woderenwu.openAccountUnClaim",
+                    "rightID": 181,
+                    "rightName": "开户审核取消认领",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 2,
+                    "moduleKey": "partner_management",
+                    "moduleName": "商户管理",
+                    "rightCode": "partner_management.woderenwu.openAccountTechnicalServiceCheck",
+                    "rightID": 183,
+                    "rightName": "开户审核技服审核",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 2,
+                    "moduleKey": "partner_management",
+                    "moduleName": "商户管理",
+                    "rightCode": "partner_management.shanghushenhe.openAccountCheckAccountList4Web",
+                    "rightID": 185,
+                    "rightName": "审核列表",
+                    "rightType": 0
+                }
+            ],
+            "sign": "70985f08-30c9-4a29-92d8-2875aefa9f2f"
+        },
+        {
+            "moduleKey": "report",
+            "moduleName": "报表管理",
+            "rightList": [
+                {
+                    "empID": 1255,
+                    "moduleID": 9,
+                    "moduleKey": "report",
+                    "moduleName": "报表管理",
+                    "rightCode": "report.baobiaoguanli.reportManage.page",
+                    "rightID": 163,
+                    "rightName": "报表管理",
+                    "rightType": 1
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 9,
+                    "moduleKey": "report",
+                    "moduleName": "报表管理",
+                    "rightCode": "report.chakanbaobiao.merchant_total_amount_report.query",
+                    "rightID": 169,
+                    "rightName": "查看平台总量报表",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 9,
+                    "moduleKey": "report",
+                    "moduleName": "报表管理",
+                    "rightCode": "report.chakanbaobiao.plat_total_amount_report",
+                    "rightID": 171,
+                    "rightName": "查看平台总量报表",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 9,
+                    "moduleKey": "report",
+                    "moduleName": "报表管理",
+                    "rightCode": "report.chakanbaobiao.order_rank_report",
+                    "rightID": 173,
+                    "rightName": "查看订单排行榜",
+                    "rightType": 0
+                }
+            ],
+            "sign": "64f085e7-787f-4fb2-a35b-1f18b2578a3b"
+        },
+        {
+            "moduleKey": "finance",
+            "moduleName": "财务管理",
+            "rightList": [
+                {
+                    "empID": 1255,
+                    "moduleID": 4,
+                    "moduleKey": "finance",
+                    "moduleName": "财务管理",
+                    "rightCode": "finance.yemianquanxian.createInvoice.page",
+                    "rightID": 165,
+                    "rightName": "开票任务",
+                    "rightType": 1
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 4,
+                    "moduleKey": "finance",
+                    "moduleName": "财务管理",
+                    "rightCode": "finance.yemianquanxian.collectCheck.page",
+                    "rightID": 167,
+                    "rightName": "收款审核",
+                    "rightType": 1
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 4,
+                    "moduleKey": "finance",
+                    "moduleName": "财务管理",
+                    "rightCode": "finance.shoukuanguanli.query",
+                    "rightID": 187,
+                    "rightName": "查询收款任务",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 4,
+                    "moduleKey": "finance",
+                    "moduleName": "财务管理",
+                    "rightCode": "finance.shoukuanguanli.update",
+                    "rightID": 189,
+                    "rightName": "更新收款任务",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 4,
+                    "moduleKey": "finance",
+                    "moduleName": "财务管理",
+                    "rightCode": "finance.kaipiaoguanli.query",
+                    "rightID": 191,
+                    "rightName": "查询开票任务",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 4,
+                    "moduleKey": "finance",
+                    "moduleName": "财务管理",
+                    "rightCode": "finance.kaipiaoguanli.update",
+                    "rightID": 193,
+                    "rightName": "更新开票任务",
+                    "rightType": 0
+                }
+            ],
+            "sign": "b89f2d38-aeab-49a3-b419-bab6615fe8f3"
+        },
+        {
+            "moduleKey": "setting",
+            "moduleName": "基本设置",
+            "rightList": [
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.renyuanguanli.insert",
+                    "rightID": 36,
+                    "rightName": "添加人员",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.renyuanguanli.update",
+                    "rightID": 37,
+                    "rightName": "修改人员信息",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.renyuanguanli.query",
+                    "rightID": 38,
+                    "rightName": "查看员工信息",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.renyuanguanli.delete",
+                    "rightID": 39,
+                    "rightName": "删除员工",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.zuzhijiagou.insert",
+                    "rightID": 40,
+                    "rightName": "添加组织",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.zuzhijiagou.update",
+                    "rightID": 41,
+                    "rightName": "修改组织机构",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.zuzhijiagou.query",
+                    "rightID": 42,
+                    "rightName": "查看组织机构",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.jiaoseguanli.query",
+                    "rightID": 44,
+                    "rightName": "查询角色信息",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.jiaoseguanli.insert",
+                    "rightID": 45,
+                    "rightName": "添加角色",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.jiaoseguanli.update",
+                    "rightID": 47,
+                    "rightName": "修改角色信息",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.jiaoseguanli.delete",
+                    "rightID": 48,
+                    "rightName": "删除角色",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.quanxianguanli.insert",
+                    "rightID": 49,
+                    "rightName": "添加权限",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.quanxianguanli.query",
+                    "rightID": 50,
+                    "rightName": "查询权限信息",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.quanxianguanli.update",
+                    "rightID": 51,
+                    "rightName": "修改权限信息",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.quanxianguanli.delete",
+                    "rightID": 52,
+                    "rightName": "删除权限",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.jiekouguanli.insert",
+                    "rightID": 53,
+                    "rightName": "添加接口",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.jiekouguanli.query",
+                    "rightID": 54,
+                    "rightName": "查询接口信息",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.jiekouguanli.update",
+                    "rightID": 55,
+                    "rightName": "修改接口信息",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.jiekouguanli.delete",
+                    "rightID": 56,
+                    "rightName": "删除接口信息",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.qunzuguanli.insert",
+                    "rightID": 57,
+                    "rightName": "创建群组",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.qunzuguanli.query",
+                    "rightID": 58,
+                    "rightName": "查询群组信息",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.qunzuguanli.delete",
+                    "rightID": 59,
+                    "rightName": "解散群组",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.qunzuguanli.update",
+                    "rightID": 60,
+                    "rightName": "修改群组信息",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.qunzuchengyuanguanli.insert",
+                    "rightID": 61,
+                    "rightName": "添加群组成员",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.qunzuchengyuanguanli.delete",
+                    "rightID": 62,
+                    "rightName": "踢出群组成员",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.qunzuchengyuanguanli.query",
+                    "rightID": 64,
+                    "rightName": "查询群组成员",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.qunzuchengyuanguanli.update",
+                    "rightID": 65,
+                    "rightName": "修改群组成员",
+                    "rightType": 0
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.yemianquanxian.orgManage.page",
+                    "rightID": 91,
+                    "rightName": "架构管理",
+                    "rightType": 1
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.yemianquanxian.empManage.page",
+                    "rightID": 93,
+                    "rightName": "人员管理",
+                    "rightType": 1
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.yemianquanxian.roleManage.page",
+                    "rightID": 95,
+                    "rightName": "角色管理",
+                    "rightType": 1
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.yemianquanxian.rightManage.page",
+                    "rightID": 97,
+                    "rightName": "权限管理",
+                    "rightType": 1
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.yemianquanxian.groupsManage.page",
+                    "rightID": 99,
+                    "rightName": "群组管理",
+                    "rightType": 1
+                },
+                {
+                    "empID": 1255,
+                    "moduleID": 1,
+                    "moduleKey": "setting",
+                    "moduleName": "基本设置",
+                    "rightCode": "setting.zuzhijiagou.delete",
+                    "rightID": 133,
+                    "rightName": "删除组织机构",
+                    "rightType": 0
+                }
+            ],
+            "sign": "33b30001-6993-4012-8f3a-7b55cf028b25"
+        }
+    ],
+    "success": "true"
+}

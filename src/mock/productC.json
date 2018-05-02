@@ -1,0 +1,404 @@
+[{
+    "productCategoryID": "1",
+    "productCatetoryName": "软件产品",
+    "productCategoryList": [{
+        "productCategoryID": "53",
+        "productCatetoryName": "套餐类软件包",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }, {
+        "productCategoryID": "20",
+        "productCatetoryName": "云店.门店管理系统",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }, {
+        "productCategoryID": "21",
+        "productCatetoryName": "云店.会员管理系统",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }, {
+        "productCategoryID": "22",
+        "productCatetoryName": "云店.库存供应链系统",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }, {
+        "productCategoryID": "51",
+        "productCatetoryName": "云店.微信餐厅系统",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }, {
+        "productCategoryID": "30",
+        "productCatetoryName": "云店.总部管控系统",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }, {
+        "productCategoryID": "32",
+        "productCatetoryName": "饮食通.软件系列",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }, {
+        "productCategoryID": "23",
+        "productCatetoryName": "云店.人事OA系统",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }, {
+        "productCategoryID": "24",
+        "productCatetoryName": "云店.数据报表",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }, {
+        "productCategoryID": "56",
+        "productCatetoryName": "SAAS软件系统",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }],
+    "productCatetoryRemark": "软件",
+    "productItemsList": [
+
+    ],
+    "orgID": "0"
+}, {
+    "productCategoryID": "2",
+    "productCatetoryName": "硬件设备",
+    "productCategoryList": [{
+        "productCategoryID": "33",
+        "productCatetoryName": "硬件套餐",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }, {
+        "productCategoryID": "9",
+        "productCatetoryName": "触摸屏",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }, {
+        "productCategoryID": "13",
+        "productCatetoryName": "打印机",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }, {
+        "productCategoryID": "16",
+        "productCatetoryName": "钱箱",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }, {
+        "productCategoryID": "14",
+        "productCatetoryName": "扫码设备",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }, {
+        "productCategoryID": "19",
+        "productCatetoryName": "手持点菜设备",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }, {
+        "productCategoryID": "45",
+        "productCatetoryName": "基站",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }, {
+        "productCategoryID": "10",
+        "productCatetoryName": "副屏与客显",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }, {
+        "productCategoryID": "41",
+        "productCatetoryName": "刷卡器",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }, {
+        "productCategoryID": "25",
+        "productCatetoryName": "电子秤与POS秤",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }, {
+        "productCategoryID": "12",
+        "productCatetoryName": "平板电脑",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }, {
+        "productCategoryID": "15",
+        "productCatetoryName": "组网设备",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }, {
+        "productCategoryID": "43",
+        "productCatetoryName": "来电设备",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }, {
+        "productCategoryID": "11",
+        "productCatetoryName": "计算机",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }, {
+        "productCategoryID": "27",
+        "productCatetoryName": "会员卡",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }, {
+        "productCategoryID": "55",
+        "productCatetoryName": "移动收款POS",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }, {
+        "productCategoryID": "26",
+        "productCatetoryName": "其它配件",
+        "productCategoryList": [
+
+        ],
+        "productCatetoryRemark": "",
+        "productItemsList": [
+
+        ],
+        "orgID": "0"
+    }],
+    "productCatetoryRemark": "硬件",
+    "productItemsList": [
+
+    ],
+    "orgID": "0"
+}, {
+    "productCategoryID": "5",
+    "productCatetoryName": "耗材",
+    "productCategoryList": [
+
+    ],
+    "productCatetoryRemark": "耗材",
+    "productItemsList": [
+
+    ],
+    "orgID": "0"
+}, {
+    "productCategoryID": "31",
+    "productCatetoryName": "软件二次开发费",
+    "productCategoryList": [
+
+    ],
+    "productCatetoryRemark": "二开",
+    "productItemsList": [
+
+    ],
+    "orgID": "0"
+}, {
+    "productCategoryID": "28",
+    "productCatetoryName": "实施服务",
+    "productCategoryList": [
+
+    ],
+    "productCatetoryRemark": "实施",
+    "productItemsList": [
+
+    ],
+    "orgID": "0"
+}, {
+    "productCategoryID": "3",
+    "productCatetoryName": "售后服务",
+    "productCategoryList": [
+
+    ],
+    "productCatetoryRemark": "售后",
+    "productItemsList": [
+
+    ],
+    "orgID": "0"
+}, {
+    "productCategoryID": "7",
+    "productCatetoryName": "支付流量包",
+    "productCategoryList": [
+
+    ],
+    "productCatetoryRemark": "支付",
+    "productItemsList": [
+
+    ],
+    "orgID": "0"
+}, {
+    "productCategoryID": "6",
+    "productCatetoryName": "短信流量包",
+    "productCategoryList": [
+
+    ],
+    "productCatetoryRemark": "短信",
+    "productItemsList": [
+
+    ],
+    "orgID": "0"
+}, {
+    "productCategoryID": "8",
+    "productCatetoryName": "办公用品",
+    "productCategoryList": [
+
+    ],
+    "productCatetoryRemark": "办公",
+    "productItemsList": [
+
+    ],
+    "orgID": "0"
+}, {
+    "productCategoryID": "4",
+    "productCatetoryName": "operation服务",
+    "productCategoryList": [
+
+    ],
+    "productCatetoryRemark": "运营",
+    "productItemsList": [
+
+    ],
+    "orgID": "0"
+}]
