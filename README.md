@@ -55,14 +55,18 @@ const routes = [
 
 ```
 
+1.the first time you run 
+```
+npm run deploy:prod
 
-1. please uncomment  the codes in routes.js 
-2. then run  
+````
+2. after step 1 finised ,please uncomment  the codes in routes.js 
+3. then run  
 ```
 npm run deploy:prod
 ```
 
-3. see the name of chunks.you will find many chunks's name has changed.
+4. see the name of chunks.you will find many chunks's name has changed,compared with the results in step 1.
 
 
 I think this a not correct!
